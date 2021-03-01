@@ -59,6 +59,9 @@ do_patches() {
     cat >../mozconfig <<END
 ac_add_options --enable-application=browser
 
+# Use non-parallel compilation for Gitlab-runner
+mk_add_options MOZ_MAKE_FLAGS="-j1"
+
 # This supposedly speeds up compilation (We test through dogfooding anyway)
 ac_add_options --disable-tests
 ac_add_options --disable-debug
