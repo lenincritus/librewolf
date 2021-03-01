@@ -192,6 +192,12 @@ artifacts() {
 if [ -f '/c/mozilla-build/start-shell.bat' ]; then
     export TPATH=$HOME/.mozbuild/clang/bin:$HOME/.mozbuild/cbindgen:$HOME/.mozbuild/node:$HOME/.mozbuild/nasm
     export PATH=$TPATH:$PATH
+    
+    if [ "$CI_RUNNER_TAGS" == "windows_runner" ]; then
+	echo "build.sh: Called from Gitlab-Runner with 'windows_runner' tag."
+	echo PATH=$PATH
+	echo HOME=$HOME
+    fi
 fi
 
 
