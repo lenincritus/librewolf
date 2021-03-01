@@ -163,13 +163,15 @@ build() {
     echo "build: begin."
     if [ ! -d firefox-$pkgver ]; then exit 1; fi
     cd firefox-$pkgver
-    
+
+    # testing this for Gitlab-runner
     echo "build: Running: ./mach clobber"
     ./mach clobber
     if [ $? -ne 0 ]; then exit 1; fi
     echo "build: Running: ./mach bootstrap"
     ./mach bootstrap
-    
+
+    # the actual build
     if [ $? -ne 0 ]; then exit 1; fi
     echo "build: Running: ./mach build"
     ./mach build
@@ -207,7 +209,7 @@ if [ -f '/c/mozilla-build/start-shell.bat' ]; then
     
     if [ "$CI_RUNNER_TAGS" == "windows_runner" ]; then
 	echo "build.sh: Called from Gitlab-Runner with 'windows_runner' tag."
-	export PATH=/local/bin:/c/mozilla-build/bin:/c/mozilla-build/kdiff3:/c/mozilla-build/nsis-3.01:/c/mozilla-build/python:/c/mozilla-build/python/Scripts:/c/mozilla-build/python3:/c/mozilla-build/python3/Scripts:/usr/local/bin:/mingw/bin:/bin:$PATH:/c/mozilla-source/Git/bin:/c/mozilla-source/Git/usr/bin
+	export PATH=/local/bin:/c/mozilla-build/bin:/c/mozilla-build/kdiff3:/c/mozilla-build/nsis-3.01:/c/mozilla-build/python:/c/mozilla-build/python/Scripts:/c/mozilla-build/python3:/c/mozilla-build/python3/Scripts:/usr/local/bin:/mingw/bin:/bin:/c/mozilla-source/Git/bin:/c/mozilla-source/Git/usr/bin:$PATH:.
 
 	echo PATH=$PATH
 	echo HOME=$HOME
