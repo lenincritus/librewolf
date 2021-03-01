@@ -165,8 +165,9 @@ build() {
     cd firefox-$pkgver
 
     # testing this for Gitlab-runner
-    echo "build: Running: ./mach clobber"
-    ./mach clobber
+    # clobber is out: FIND: Parameter format not correct
+    #echo "build: Running: ./mach clobber"
+    #./mach clobber
     if [ $? -ne 0 ]; then exit 1; fi
     echo "build: Running: ./mach bootstrap"
     ./mach bootstrap
