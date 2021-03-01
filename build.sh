@@ -13,7 +13,8 @@ fetch() {
 
     # fetch the firefox source.
     rm -f firefox-$pkgver.source.tar.xz
-    wget https://archive.mozilla.org/pub/firefox/releases/$pkgver/source/firefox-$pkgver.source.tar.xz
+    echo "Fetching firefox-$pkgver.source.tar.xz ..."
+    wget -q https://archive.mozilla.org/pub/firefox/releases/$pkgver/source/firefox-$pkgver.source.tar.xz
     if [ $? -ne 0 ]; then exit 1; fi
     if [ ! -f firefox-$pkgver.source.tar.xz ]; then exit 1; fi
     
@@ -30,7 +31,8 @@ extract() {
     
     echo "Extracting firefox-$pkgver.source.tar.xz ..."
     tar xf firefox-$pkgver.source.tar.xz
-    if [ $? -ne 0 ]; then exit 1; fi
+    # causes problems with Gitlab-Runner: File or path name too long
+    # if [ $? -ne 0 ]; then exit 1; fi
     if [ ! -d firefox-$pkgver ]; then exit 1; fi
     
     echo "extract: done."
