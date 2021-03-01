@@ -6,6 +6,7 @@ variables:
 
 build:
     stage: build
+    when: manual
     script:
         - '& .\.gitlab-ci.ps1 fetch'
     tags:
