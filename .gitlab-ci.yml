@@ -1,0 +1,18 @@
+stages:
+    - build
+
+variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+
+build:
+    stage: build
+    script:
+        - '& .\.gitlab-ci.ps1 fetch'
+    tags:
+        - windows_runner
+    artifacts:
+        paths:
+            - librewolf-*.en-US.win64.zip.sha256sum
+            - librewolf-*.en-US.win64.zip
+            - librewolf-*.en-US.win64-setup.exe.sha256sum
+            - librewolf-*.en-US.win64-setup.exe
