@@ -31,7 +31,7 @@ extract() {
     
     echo "Extracting firefox-$pkgver.source.tar.xz ..."
     tar xf firefox-$pkgver.source.tar.xz
-    f [ $? -ne 0 ]; then exit 1; fi
+    if [ $? -ne 0 ]; then exit 1; fi
     if [ ! -d firefox-$pkgver ]; then exit 1; fi
     
     echo "extract: done."
