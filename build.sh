@@ -31,8 +31,7 @@ extract() {
     
     echo "Extracting firefox-$pkgver.source.tar.xz ..."
     tar xf firefox-$pkgver.source.tar.xz
-    # causes problems with Gitlab-Runner: File or path name too long
-    # if [ $? -ne 0 ]; then exit 1; fi
+    f [ $? -ne 0 ]; then exit 1; fi
     if [ ! -d firefox-$pkgver ]; then exit 1; fi
     
     echo "extract: done."

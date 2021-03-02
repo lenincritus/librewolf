@@ -8,7 +8,8 @@ build:
     stage: build
     when: manual
     script:
-        - '& .\.gitlab-ci.ps1 fetch extract do_patches build artifacts'
+#        - '& .\.gitlab-ci.ps1 fetch extract do_patches build artifacts'
+        - '& .\.gitlab-ci.ps1 fetch extract do_patches'
     tags:
         - windows_runner
     artifacts:
