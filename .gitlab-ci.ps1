@@ -15,6 +15,7 @@ $retval = $LASTEXITCODE
 
 
 # we need to remove the build folder here or the next job barfs out.
+Write-Output ".gitlab-ci.ps1: post build.sh action: Removing firefox build folder."
 Remove-Item firefox-* -recurse
 popd
 subst b: /d
