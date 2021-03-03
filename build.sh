@@ -1,5 +1,6 @@
 # build.sh - build librewolf on windows
 # derived from https://gitlab.com/librewolf-community/browser/linux/-/blob/master/PKGBUILD
+# (at the moment, the final commit to the windows_runner branch)
 
 pkgname=librewolf
 _pkgname=LibreWolf
