@@ -22,11 +22,13 @@ It contains only one subfolder (settings) with one file in it: _index.md. This l
 
 How does the mapping from .md files to .html pages work? Well, every .md page maps directly to an .html url on the website. So if you create a new file, it will get picked up automatically by the Hugo site generator, and a navigation link will get created. If you want to do that, the first line must be of the form:
 
+    ---
     title: My page
+    ---
 
     # My page
 
-    Hi there, this is my new page.
+    Hi there, this is my new page. Lorem ipsum etc.
 
 That's basically all about the website structure. All the pages count, and their title: on the first line tells you what their 'navigation' title is. If you delete such an .md file, it disappears from the site.
 
