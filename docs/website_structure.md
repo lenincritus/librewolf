@@ -30,7 +30,7 @@ How does the mapping from .md files to .html pages work? Well, every .md page ma
 
 That's basically all about the website structure. All the pages count, and their title: on the first line tells you what their 'navigation' title is. If you delete such an .md file, it disappears from the site.
 
-### Other notes/topics
+### My other notes/topics
 
 * I feel that the **install.md** file is critical. This is what people who do not read click on to 'just give me LibreWolf'. This is especially true for Windows/Apple users. The Linux crowd is different and much more hardcore. In a way we want to make things easy clickable for the Windows/Apple users, and clear and consise for the Linux users.
 * Second, the **docs / _index.md** file is critical. This is where people land when they click on 'Documentation'. I'm not sure what they would want to read first, but it should point the way to the documentation in general and how it is structured.
