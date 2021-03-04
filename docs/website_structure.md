@@ -30,7 +30,7 @@ How does the mapping from .md files to .html pages work? Well, every .md page ma
 
     Hi there, this is my new page. Lorem ipsum etc.
 
-That's basically all about the website structure. All the pages count, and their title: on the first line tells you what their 'navigation' title is. If you delete such an .md file, it disappears from the site.
+That's basically all about the website structure. All the pages count, and their title: on the first section tells you what their 'navigation' title is. If you delete such an .md file, it disappears from the site.
 
 ### My other notes/topics
 
