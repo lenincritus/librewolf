@@ -18,7 +18,7 @@ As you can tell, I would be much more happy if that install.md would actually be
 
 The main repository folder has all the .md files right there, and all of them are interesting, except for the _readme.md_ and _licence.md_. 
 
-It contains only one subfolder (settings) with one file in it: _index.md. This is an inconsistency I do not understand, maybe the idea is to have quite a lot of explanation and documentation on the settings in LibreWolf (which form the core of LibreWolf). But I don't see this substructure reflected in the site navigation on top (yet).
+It contains only one subfolder (settings) with one file in it: _index.md. This looks like an inconsistency, but the idea is probably to have quite a lot of explanation and documentation and pages on the settings in LibreWolf (which form the core of LibreWolf). You can see this substructure reflected in the site navigation on top (this is all done by _Hugo_).
 
 How does the mapping from .md files to .html pages work? Well, every .md page maps directly to an .html url on the website. So if you create a new file, it will get picked up automatically by the Hugo site generator, and a navigation link will get created. If you want to do that, the first line must be of the form:
 
