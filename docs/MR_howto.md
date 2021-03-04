@@ -18,5 +18,5 @@ Ok, so that's what we're going to do, edit a page via the website. I will use th
 * When done, we scroll down to the bottom of the page, and click the green 'Commit changes' button.
 * We now end up in the 'Submit Merge Request' page, where we explain in short form what the change is about. No need to be too strict about this.
 * We press the green 'Submit merge request' button.
-* We end up in the Merge Request page for our MR, (for me, it was MR #2). You can always find all open MR's on the Github navigation to the left.
+* We end up in the Merge Request page for our MR. You can always find all open MR's on the Github navigation to the left.
 * **Now it's out of our hands.** We wait until an admin/maintainer approves of our change, submit the change to the repository, and let the new version  be generated and displayed on the website.
