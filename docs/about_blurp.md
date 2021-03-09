@@ -14,5 +14,5 @@ That's it the rest should be your normal Firefox. [[DOWNLOAD SETUP]]
 * Librewolf installs on your machine as administrator, so you can't change everything you want. Certain things we consider just too unsafe: and then we keep that setting locked.
 * Windows and macOS don't have automatic updates.
 * We do make changes to the firefox source, but these are minor things.
-* We don't like pocket. Sorry, you can't have your pocket. Or whatever cloud service.
+* We don't like pocket. Sorry, you can't have your pocket. Or whatever cloud service, just the browser.
 * Updates are different per platform we deploy on.
