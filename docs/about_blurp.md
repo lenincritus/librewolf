@@ -2,7 +2,7 @@
 
 LibreWolf is just like Firefox, but it has all the recommended security setings and add-ons built in for you.
 
-To be technical, LibreWolf, in essence, is two files:
+To be technical, LibreWolf, in essence, is just two files:
 
 * [librewolf.cfg](https://gitlab.com/librewolf-community/settings/-/blob/master/librewolf.cfg) - All the recomended privacy settings. 
 * [policies.json](https://gitlab.com/librewolf-community/settings/-/blob/master/distribution/policies.json) - Install privacy add-ons, remove all big tech search engines, and makes duckduckgo the default search engine.
