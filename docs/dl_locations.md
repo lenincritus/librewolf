@@ -6,7 +6,7 @@
 
 # settings repository
 
-* [[settings repository](https://gitlab.com/librewolf-community/settings)] - all _librewolf.cfg_ stuff..
+* [[settings repository](https://gitlab.com/librewolf-community/settings)] - all _librewolf.cfg_ stuff.. ([issues](https://gitlab.com/librewolf-community/settings/-/issues))
 
 # browser repositories
 
@@ -14,6 +14,8 @@
 * [[flatpack](https://gitlab.com/librewolf-community/browser/flatpak)] -> ([issues](https://gitlab.com/librewolf-community/browser/flatpak/-/issues))
 * [[linux](https://gitlab.com/librewolf-community/browser/linux)] -> ([issues](https://gitlab.com/librewolf-community/browser/linux/-/issues))
 * [[website](https://gitlab.com/librewolf-community/librewolf-community.gitlab.io)] - ([issues](https://gitlab.com/librewolf-community/librewolf-community.gitlab.io/-/issues))
+
+# distro repositories
 
 * [[arch](https://gitlab.com/librewolf-community/browser/arch)] -> ([issues](https://gitlab.com/librewolf-community/browser/arch/-/issues))
 * [[debian](https://gitlab.com/librewolf-community/browser/debian)] -> ([issues](https://gitlab.com/librewolf-community/browser/debian/-/issues))
@@ -26,4 +28,3 @@
 * If at all possible, pleasse go to the relevant 'issues' link and start discussing thing there.
 * [[reddit](https://www.reddit.com/r/LibreWolf/)]
 * [[gitter](https://gitter.im/librewolf-community/librewolf)]
-
