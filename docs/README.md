@@ -40,3 +40,5 @@
 * eff.org: [surveillance self-defense](https://ssd.eff.org/en).
 * wikipedia: [Browser fingerprinting](https://en.wikipedia.org/wiki/Device_fingerprint).
 * wikipedia: [Browser security](https://en.wikipedia.org/wiki/Browser_security), [browser exploit](https://en.wikipedia.org/wiki/Browser_exploit).
+* mozilla: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Thunderbird](https://www.thunderbird.net/en-US/); ...
+* news: [ghacks](https://www.ghacks.net/)
