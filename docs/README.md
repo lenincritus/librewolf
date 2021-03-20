@@ -1,11 +1,4 @@
-LibreWolf for Win64
--------------------
-
-We have a zip file and an installer available for download.. We no longer consider these builds alpha quality, but it is not out of beta yet either.
-
-**Downloads**: To get the installer, head over to the **[releases](https://gitlab.com/librewolf-community/browser/windows/-/releases)** page.
-
-# other LibreWolf download locations
+# download locations
 
 * [[arch releases](https://gitlab.com/librewolf-community/browser/arch/-/releases)] - [AUR(en)](https://aur.archlinux.org/packages/librewolf/)
 * [[linux releases](https://gitlab.com/librewolf-community/browser/linux/-/releases)] - Flatpak, AppImage, Arch and other Linux builds of the LibreWolf browser.
@@ -16,7 +9,7 @@ We have a zip file and an installer available for download.. We no longer consid
 
 * [[settings repository](https://gitlab.com/librewolf-community/settings)] - all _librewolf.cfg_ stuff.. _([issues](https://gitlab.com/librewolf-community/settings/-/issues))_
 
-# browser repositories
+# librewolf repositories
 
 * [[common](https://gitlab.com/librewolf-community/browser/commons)] -> _([issues](https://gitlab.com/librewolf-community/browser/common/-/issues))_
 * [[flatpack](https://gitlab.com/librewolf-community/browser/flatpak)] -> _([issues](https://gitlab.com/librewolf-community/browser/flatpak/-/issues))_
