@@ -17,5 +17,5 @@
 * [[gentoo](https://gitlab.com/librewolf-community/browser/gentoo)] -> ([issues](https://gitlab.com/librewolf-community/browser/gentoo/-/issues))
 * [[linux](https://gitlab.com/librewolf-community/browser/linux)] -> ([issues](https://gitlab.com/librewolf-community/browser/linux/-/issues))
 * [[macos](https://gitlab.com/librewolf-community/browser/macos)] -> ([issues](https://gitlab.com/librewolf-community/browser/macos/-/issues))
-* [[](https://gitlab.com/librewolf-community/browser/windows)] -> ([issues](https://gitlab.com/librewolf-community/browser/windows/-/issues))
+* [[windows](https://gitlab.com/librewolf-community/browser/windows)] -> ([issues](https://gitlab.com/librewolf-community/browser/windows/-/issues))
 
