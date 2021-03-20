@@ -34,5 +34,4 @@
 
 * eff.org: [surveillance self-defense](https://ssd.eff.org/en).
 * wikipedia: [Browser fingerprinting](https://en.wikipedia.org/wiki/Device_fingerprint).
-* wikipedia: [Browser security](https://en.wikipedia.org/wiki/Browser_security).
-* wikipedia: [Browser exploit](https://en.wikipedia.org/wiki/Browser_exploit).
+* wikipedia: [Browser security](https://en.wikipedia.org/wiki/Browser_security), [browser exploit](https://en.wikipedia.org/wiki/Browser_exploit).
