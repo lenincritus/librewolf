@@ -10,12 +10,14 @@
 
 # browser repositories
 
-* [[arch](https://gitlab.com/librewolf-community/browser/arch)] -> ([issues](https://gitlab.com/librewolf-community/browser/arch/-/issues))
 * [[common](https://gitlab.com/librewolf-community/browser/commons)] -> ([issues](https://gitlab.com/librewolf-community/browser/common/-/issues))
-* [[debian](https://gitlab.com/librewolf-community/browser/debian)] -> ([issues](https://gitlab.com/librewolf-community/browser/debian/-/issues))
 * [[flatpack](https://gitlab.com/librewolf-community/browser/flatpak)] -> ([issues](https://gitlab.com/librewolf-community/browser/flatpak/-/issues))
-* [[gentoo](https://gitlab.com/librewolf-community/browser/gentoo)] -> ([issues](https://gitlab.com/librewolf-community/browser/gentoo/-/issues))
 * [[linux](https://gitlab.com/librewolf-community/browser/linux)] -> ([issues](https://gitlab.com/librewolf-community/browser/linux/-/issues))
+* [[website](https://gitlab.com/librewolf-community/librewolf-community.gitlab.io)] - ([issues](https://gitlab.com/librewolf-community/librewolf-community.gitlab.io/-/issues))
+
+* [[arch](https://gitlab.com/librewolf-community/browser/arch)] -> ([issues](https://gitlab.com/librewolf-community/browser/arch/-/issues))
+* [[debian](https://gitlab.com/librewolf-community/browser/debian)] -> ([issues](https://gitlab.com/librewolf-community/browser/debian/-/issues))
+* [[gentoo](https://gitlab.com/librewolf-community/browser/gentoo)] -> ([issues](https://gitlab.com/librewolf-community/browser/gentoo/-/issues))
 * [[macos](https://gitlab.com/librewolf-community/browser/macos)] -> ([issues](https://gitlab.com/librewolf-community/browser/macos/-/issues))
 * [[windows](https://gitlab.com/librewolf-community/browser/windows)] -> ([issues](https://gitlab.com/librewolf-community/browser/windows/-/issues))
 
@@ -24,5 +26,4 @@
 * If at all possible, pleasse go to the relevant 'issues' link and start discussing thing there.
 * [[reddit](https://www.reddit.com/r/LibreWolf/)]
 * [[gitter](https://gitter.im/librewolf-community/librewolf)]
-* [[website](https://gitlab.com/librewolf-community/librewolf-community.gitlab.io)] - ([issues](https://gitlab.com/librewolf-community/librewolf-community.gitlab.io/-/issues))
 
