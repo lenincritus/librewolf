@@ -1,3 +1,8 @@
+# LibreWolf for windows
+
+* [download latest release](https://gitlab.com/librewolf-community/browser/windows/-/releases).
+* [issue tracker](https://gitlab.com/librewolf-community/browser/windows/-/issues).
+
 # download locations
 
 * [[arch releases](https://gitlab.com/librewolf-community/browser/arch/-/releases)] - [AUR(en)](https://aur.archlinux.org/packages/librewolf/)
