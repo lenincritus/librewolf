@@ -6,4 +6,4 @@
 
 # settings repository
 
-* [[settings repository](https://gitlab.com/librewolf-community/settings)]
+* [[settings repository](https://gitlab.com/librewolf-community/settings)] - all _librewolf.cfg_ stuff..
