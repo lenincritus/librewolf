@@ -29,3 +29,7 @@
 * If at all possible, pleasse go to the relevant 'issues' link and start discussing thing there.
 * [[reddit](https://www.reddit.com/r/LibreWolf/)] - [r/LibreWolf](https://www.reddit.com/r/LibreWolf/) 😺
 * [[gitter](https://gitter.im/librewolf-community/librewolf)]
+
+# hardening firefox
+
+* [eff: surveillance self-defense[](https://ssd.eff.org/en)]
