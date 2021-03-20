@@ -32,4 +32,4 @@
 
 # hardening firefox
 
-* [eff: surveillance self-defense](https://ssd.eff.org/en)]
+* [[eff.org: surveillance self-defense](https://ssd.eff.org/en)]
