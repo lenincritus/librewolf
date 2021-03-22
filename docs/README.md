@@ -37,6 +37,7 @@
 
 # hardening firefox
 
+* **tools**: [[deviceinfo.me](https://www.deviceinfo.me/)], [[coveryourtracks](https://coveryourtracks.eff.org/learn)], [[privacytools.io](https://privacytools.io/)], 
 * eff.org: [surveillance self-defense](https://ssd.eff.org/en).
 * mozilla: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Thunderbird](https://www.thunderbird.net/en-US/); ...
 * news: [ghacks](https://www.ghacks.net/)
